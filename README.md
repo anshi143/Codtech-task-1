@@ -1,1 +1,11 @@
-# Codtech-task-1
+
+![verilog1](https://github.com/anshi143/Codtech-task-1/assets/175114331/1f646a49-44cb-410d-a4e4-8e6de2376087)
+![verilog5](https://github.com/anshi143/Codtech-task-1/assets/175114331/6588f89e-ed43-4ba2-997a-bf7d67ae8906)
+![verilog6](https://github.com/anshi143/Codtech-task-1/assets/175114331/276772b3-9b03-4225-936a-a62610412260)
+![verilog02](https://github.com/anshi143/Codtech-task-1/assets/175114331/c42bd5d4-4e39-4d86-85e1-92a6b87216a1)
+![verilog7](https://github.com/anshi143/Codtech-task-1/assets/175114331/03ef99f7-be9f-45ba-bc87-c981e76bd103)
+![verilog2](https://github.com/anshi143/Codtech-task-1/assets/175114331/57e01bc1-f48b-42d9-a187-79fe591e1e6f)
+![verilog03](https://github.com/anshi143/Codtech-task-1/assets/175114331/4e9a873f-dc7a-4c0a-95ac-fabd570828ee)
+![verilog4](https://github.com/anshi143/Codtech-task-1/assets/175114331/f155046d-9643-415a-bc32-6c85e4987e54)
+![verilog5](https://github.com/anshi143/Codtech-task-1/assets/175114331/0d87eb42-57d7-49e5-b7fe-472f19a3d65d)
+![verilog3](https://github.com/anshi143/Codtech-task-1/assets/175114331/c96b3d48-d3a0-49b5-94e8-6eaedfdd85b5)
